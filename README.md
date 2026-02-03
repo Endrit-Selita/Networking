@@ -1,15 +1,15 @@
-# Contents of Networking:
+##  Contents of Networking:
 
-## Chapter 1 : Introduction to Networking Fundamentals   
-## Chapter 2 : OSI Model  
-## Chapter 3 : DNS   
-## Chapter 4 : Routing   
-## Chapter 5 : Subnetting   
-## Chapter 6 : Network Troubleshooting   
-## Chapter 7 : Cloud-Native Networking   
-## Chapter 8 : Hands-on Networking
+### Chapter 1 : Introduction to Networking Fundamentals   
+### Chapter 2 : OSI Model  
+### Chapter 3 : DNS   
+### Chapter 4 : Routing   
+### Chapter 5 : Subnetting   
+### Chapter 6 : Network Troubleshooting   
+### Chapter 7 : Cloud-Native Networking   
+### Chapter 8 : Hands-on Networking
 
-# Chapter 1 : Introduction to Networking Fundamentals  
+## Chapter 1 : Introduction to Networking Fundamentals  
 A. Overview of computer networks and their importance in modern infrastructure & DevOps  
 B. Network Basics/Types of Networks: LAN, WAN etc  
 C. Key networking components: Routers, switches, firewalls  
@@ -17,7 +17,7 @@ D. IP addressing (IPv4 & IPv6)
 E. MAC addresses  
 F. Ports and Protocols (TCP, UDP)
 
-# Overview of Computer Networks {#overview-of-computer-networks}
+## Overview of Computer Networks {#overview-of-computer-networks}
 
 A computer network is a group of devices connected with each other allowing them to share information and resources. Think about your home setup. You might have a phone, a laptop, and a smart TV, all connected to the same Wi-Fi. That connection between them forms a small network where they can share the internet and, in some cases, even files.
 
