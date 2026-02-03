@@ -1,4 +1,6 @@
-##  Contents of Networking:
+## Notes on networking
+
+###  Contents of Networking:
 
 #### Chapter 1 : Introduction to Networking Fundamentals   
 #### Chapter 2 : OSI Model  
