@@ -1,13 +1,15 @@
 ##  Contents of Networking:
 
-### Chapter 1 : Introduction to Networking Fundamentals   
-### Chapter 2 : OSI Model  
-### Chapter 3 : DNS   
-### Chapter 4 : Routing   
-### Chapter 5 : Subnetting   
-### Chapter 6 : Network Troubleshooting   
-### Chapter 7 : Cloud-Native Networking   
-### Chapter 8 : Hands-on Networking
+#### Chapter 1 : Introduction to Networking Fundamentals   
+#### Chapter 2 : OSI Model  
+#### Chapter 3 : DNS   
+#### Chapter 4 : Routing   
+#### Chapter 5 : Subnetting   
+#### Chapter 6 : Network Troubleshooting   
+#### Chapter 7 : Cloud-Native Networking   
+#### Chapter 8 : Hands-on Networking
+
+---
 
 ## Chapter 1 : Introduction to Networking Fundamentals  
 A. Overview of computer networks and their importance in modern infrastructure & DevOps  
